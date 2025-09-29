@@ -1,4 +1,4 @@
-# JOYY_MARKETING - Gestión de base de datos Joyy Marketing
+# JOYY_MARKETING - Gestión de base de datos JOYY Marketing
 
 Gestión de base de datos para agencia de marketing (Joyy Marketing)  
 En un mundo saturado de anuncios, las agencias de publicidad necesitan información centralizada y confiable para tomar decisiones estratégicas.
